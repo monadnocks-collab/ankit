@@ -1,0 +1,506 @@
+{
+  "hero": {
+    "title": {
+      "line1": "Program Manager",
+      "line2": "at Monadnocks",
+      "line3": "executing strategic programs"
+    },
+    "subtitle": "I'm Ankit Kumar — Program Manager at Monadnocks, helping to manage and execute all the programs effectively.",
+    "cta": {
+      "text": "Let's Connect",
+      "href": "#connect"
+    },
+    "image": {
+      "src": "/ankit02.jpg",
+      "alt": "Ankit Kumar profile photo"
+    }
+  },
+
+
+
+  "about": {
+    "title": "About Me",
+    "subtitle": "Program Manager driven by strategic execution and program management excellence",
+    "mainStory": {
+      "intro": "I'm Ankit Kumar",
+      "paragraph1": "As Program Manager at Monadnocks, I play a crucial role in managing and executing all the programs that drive our organization's mission forward. My responsibilities include program planning, execution oversight, stakeholder coordination, and ensuring successful delivery of all initiatives.",
+      "paragraph2": "I work to ensure that Monadnocks' programs – encompassing both our business ventures and foundation initiatives – are executed efficiently and effectively. I contribute significantly to maintaining high standards of program delivery and stakeholder satisfaction."
+    },
+    "careerHighlights": [
+      {
+        "icon": "📋",
+        "title": "Program Manager",
+        "description": "Monadnocks Foundation"
+      },
+      {
+        "icon": "🎯",
+        "title": "Program Execution",
+        "description": "Strategic planning & implementation"
+      },
+      {
+        "icon": "🤝",
+        "title": "Stakeholder Management",
+        "description": "Coordinating with teams & partners"
+      },
+      {
+        "icon": "📊",
+        "title": "Performance Monitoring",
+        "description": "Tracking progress & outcomes"
+      }
+    ],
+    "image": {
+      "src": "/ankit.jpg",
+      "alt": "Ankit Kumar profile photo"
+    }
+  },
+
+
+
+  "skills": {
+    "title": "Skills & Expertise",
+    "subtitle": "Comprehensive program management skills honed through strategic execution and stakeholder coordination experience.",
+    "categories": [
+      {
+        "title": "Program Management",
+        "icon": "📋",
+        "skills": [
+          "Strategic Planning",
+          "Program Execution",
+          "Project Coordination",
+          "Stakeholder Management",
+          "Risk Management",
+          "Resource Allocation",
+          "Timeline Management",
+          "Performance Monitoring"
+        ]
+      },
+      {
+        "title": "Leadership & Communication",
+        "icon": "💬",
+        "skills": [
+          "Team Leadership",
+          "Stakeholder Communication",
+          "Cross-functional Coordination",
+          "Conflict Resolution",
+          "Presentation Skills",
+          "Executive Reporting",
+          "Change Management",
+          "Strategic Communication"
+        ]
+      },
+      {
+        "title": "Analytics & Reporting",
+        "icon": "📊",
+        "skills": [
+          "Performance Analytics",
+          "Progress Tracking",
+          "KPI Monitoring",
+          "Data Analysis",
+          "Reporting Systems",
+          "Metrics Dashboard",
+          "Impact Assessment",
+          "ROI Measurement"
+        ]
+      },
+      {
+        "title": "Strategic Planning",
+        "icon": "🎯",
+        "skills": [
+          "Strategic Planning",
+          "Goal Setting",
+          "Resource Planning",
+          "Risk Assessment",
+          "Contingency Planning",
+          "Strategic Alignment",
+          "Priority Management",
+          "Long-term Planning"
+        ]
+      },
+      {
+        "title": "Process Optimization",
+        "icon": "⚡",
+        "skills": [
+          "Process Improvement",
+          "Efficiency Optimization",
+          "Workflow Management",
+          "Quality Assurance",
+          "Standardization",
+          "Best Practices",
+          "Continuous Improvement",
+          "Operational Excellence"
+        ]
+      },
+      {
+        "title": "Technology & Tools",
+        "icon": "🛠️",
+        "skills": [
+          "Project Management Tools",
+          "Data Analytics Platforms",
+          "Communication Platforms",
+          "Reporting Systems",
+          "Collaboration Tools",
+          "Automation Tools",
+          "Digital Solutions",
+          "Technology Integration"
+        ]
+      }
+    ],
+    "tools": [
+      { "name": "Project Management", "icon": "📋", "category": "Management" },
+      { "name": "Analytics Tools", "icon": "📊", "category": "Analysis" },
+      { "name": "Communication Platforms", "icon": "💬", "category": "Communication" },
+      { "name": "Reporting Systems", "icon": "📈", "category": "Reporting" },
+      { "name": "Collaboration Tools", "icon": "🤝", "category": "Teamwork" },
+      { "name": "Resource Management", "icon": "📦", "category": "Resources" },
+      { "name": "Risk Management", "icon": "⚠️", "category": "Risk" },
+      { "name": "Performance Tracking", "icon": "🎯", "category": "Performance" },
+      { "name": "Stakeholder Tools", "icon": "👥", "category": "Stakeholders" },
+      { "name": "Planning Tools", "icon": "📅", "category": "Planning" },
+      { "name": "Quality Assurance", "icon": "✅", "category": "Quality" },
+      { "name": "Automation Tools", "icon": "🤖", "category": "Automation" }
+    ]
+  },
+
+
+
+  "achievements": {
+    "title": "Achievements & Milestones",
+    "subtitle": "Key accomplishments, awards, and milestones that showcase my impact in program management.",
+    "items": [
+
+      {
+        "id": 1,
+        "title": "Program Manager",
+        "description": "Appointed as Program Manager at Monadnocks Foundation",
+        "date": "2025",
+        "icon": "📋",
+        "category": "Leadership"
+      },
+      {
+        "id": 2,
+        "title": "Successful Program Execution",
+        "description": "Successfully managed and executed multiple programs for Monadnocks",
+        "date": "2025",
+        "icon": "📈",
+        "category": "Performance"
+      },
+
+      {
+        "id": 3   ,
+        "title": "Excellence in Program Management",
+        "description": "Recognized for exceptional program execution and stakeholder coordination",
+        "date": "2023",
+        "icon": "🏅",
+        "category": "Recognition"
+      }
+    ],
+    "summary": {
+      "text": "Track Record of Success",
+      "icon": "📊"
+    }
+  },
+
+
+  "gallery": {
+    "title": "Portfolio Gallery",
+    "subtitle": "Explore my program management projects, strategic execution initiatives, and stakeholder coordination efforts that have driven real results.",
+    "cta": {
+      "text": "View All Projects",
+      "href": "/portfolio"
+    }
+  },
+
+
+  "socialMedia": {
+    "title": "Social Media Presence",
+    "subtitle": "Managing Monadnocks' digital presence and stakeholder engagement across multiple platforms.",
+    "platforms": [
+      {
+        "id": 2,
+        "name": "Instagram",
+        "handle": "@monadnocks",
+        "url": "https://instagram.com/monadnocks",
+        "followers": "2.5K+",
+        "engagement": "8.5%",
+        "icon": "📸",
+        "color": "bg-gradient-to-r from-purple-500 to-pink-500",
+        "description": "Visual content & brand messaging"
+      },
+      {
+        "id": 4,
+        "name": "Facebook",
+        "handle": "Monadnocks",
+        "url": "https://facebook.com/monadnocks",
+        "followers": "3.2K+",
+        "engagement": "6.8%",
+        "icon": "📘",
+        "color": "bg-blue-500",
+        "description": "Community engagement & updates"
+      },
+      {
+        "id": 5,
+        "name": "YouTube",
+        "handle": "Monadnocks",
+        "url": "https://youtube.com/@monadnocks",
+        "followers": "1.8K+",
+        "engagement": "12.3%",
+        "icon": "📺",
+        "color": "bg-red-600",
+        "description": "Educational content & updates"
+      },
+      {
+        "id": 6,
+        "name": "LinkedIn",
+        "handle": "Monadnocks",
+        "url": "https://linkedin.com/company/monadnocks",
+        "followers": "1.5K+",
+        "engagement": "15.7%",
+        "icon": "💼",
+        "color": "bg-blue-600",
+        "description": "Professional updates & networking"
+      }
+    ],
+    "summary": {
+      "text": "Total Reach: 9K+ Followers",
+      "icon": "📊"
+    }
+  },
+
+
+  "testimonials": {
+    "title": "Testimonials",
+    "items": [
+      {
+        "id": 1,
+        "quote": "Ankit's strategic approach to program management has been instrumental in executing our initiatives effectively. His expertise in program execution and stakeholder coordination has helped us deliver successful outcomes.",
+        "author": "Monu Raj",
+        "avatar": "/monuraj.jpeg",
+        "position": "Founder",
+        "company": "Monadnocks"
+      },
+      {
+        "id": 2,
+        "quote": "Ankit's role as Program Manager has transformed how we execute our programs. His ability to coordinate teams, manage timelines, and ensure successful delivery has been invaluable to our success.",
+        "author": "Sonu Raj",
+        "avatar": "/sonuraj.jpeg",
+        "position": "Co-Founder",
+        "company": "Monadnocks"
+      },
+      {
+        "id": 3,
+        "quote": "Working with Ankit has been exceptional. His program management skills and strategic execution expertise have helped us achieve our goals efficiently and maintain high standards of delivery.",
+        "author": "Raj Bhushan Raj",
+        "avatar": "/rajbhushanraj.jpeg",
+        "position": "Co-Founder",
+        "company": "Monadnocks"
+      }
+    ]
+  },
+
+
+  "contributions": {
+    "title": "Key Contributions",
+    "items": [
+      {
+        "icon": "📋",
+        "text": "Managing and executing all programs for Monadnocks Foundation"
+      },
+      {
+        "icon": "🎯",
+        "text": "Strategic planning and program execution oversight"
+      },
+      {
+        "icon": "🤝",
+        "text": "Coordinating with stakeholders and team members"
+      },
+      {
+        "icon": "📊",
+        "text": "Monitoring program performance and ensuring successful delivery"
+      }
+    ]
+  },
+
+
+  "portfolio": {
+    "title": "Portfolio Gallery",
+    "subtitle": "Explore my program management projects, strategic execution initiatives, and stakeholder coordination efforts that have driven real results.",
+    "categories": ["All", "Program Management", "Strategic Execution", "Stakeholder Coordination", "Performance Monitoring", "Process Optimization", "Leadership", "Analytics"],
+    "projects": [
+      {
+        "id": 1,
+        "title": "Monadnocks Foundation Programs",
+        "description": "Strategic program management that enhanced organizational effectiveness",
+        "category": "Program Management",
+        "image": "/ncmchampionship.jpeg",
+        "video": null,
+        "stats": "Enhanced program delivery",
+        "year": "2024"
+      },
+      {
+        "id": 2,
+        "title": "Strategic Execution",
+        "description": "Comprehensive program execution and stakeholder coordination",
+        "category": "Strategic Execution",
+        "image": "/strategic-planning.jpg",
+        "video": null,
+        "stats": "Improved program outcomes",
+        "year": "2024"
+      },
+      {
+        "id": 3,
+        "title": "Stakeholder Coordination",
+        "description": "Effective coordination with teams and partners",
+        "category": "Stakeholder Coordination",
+        "image": "/stackeholder.png",
+        "video": null,
+        "stats": "Enhanced stakeholder satisfaction",
+        "year": "2024"
+      }
+    ],
+    "cta": {
+      "title": "Ready to Start Your Project?",
+      "subtitle": "Let's discuss how I can help you achieve similar results for your program management needs.",
+      "buttonText": "Get In Touch",
+      "buttonLink": "/#connect"
+    }
+  },
+
+
+  "connect": {
+    "title": "Let's Connect",
+    "links": [
+      {
+        "name": "Email",
+        "url": "mailto:subhamkumar75805@gmail.com"
+      },
+      {
+        "name": "Phone",
+        "url": "tel:+9174********"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/__subham__rajj__"
+      }
+    ],
+    "form": {
+      "name": {
+        "placeholder": "Name",
+        "required": true
+      },
+      "email": {
+        "placeholder": "Email",
+        "required": true
+      },
+      "message": {
+        "placeholder": "Message",
+        "required": true,
+        "rows": 4
+      },
+      "submit": "Send Message"
+    }
+  },
+
+
+  "youtube": {
+    "title": "Featured Video",
+    "featuredVideo": {
+      "id": "featured-1",
+      "title": "What is Monadnocks? - Our Mission & Vision",
+      "description": "Discover the story behind Monadnocks Foundation - our mission to build movements, not just metrics.",
+      "videoId": "YI-68PTtrjs",
+      "startTime": "960",
+      "views": "15.2K",
+      "duration": "12:45",
+      "publishedAt": "2 weeks ago",
+      "category": "About Monadnocks"
+    },
+    "cta": {
+      "text": "Watch All Videos",
+      "url": "https://youtube.com/@monadnocks",
+      "icon": "🎥"
+    }
+  },
+
+  "mediaGallery": {
+    "title": "Media Gallery",
+    "subtitle": "Capturing memories and important moments from our journey",
+    "categories": ["All", "Team Photos", "Events", "Work", "Memories", "Achievements"],
+    "images": [
+      {
+        "id": 1,
+        "title": "Team Meeting",
+        "description": "Core team discussion at Monadnocks",
+        "category": "Team Photos",
+        "image": "/teammeating.png",
+        "date": "2025"
+      },
+      {
+        "id": 2,
+        "title": "NCM Championship",
+        "description": "Celebrating successful project completion",
+        "category": "Events",
+        "image": "/ncmchampionship.jpeg",
+        "date": "2024"
+      },
+      {
+        "id": 3,
+        "title": "Ankit Kumar",
+        "description": "Program Manager",
+        "category": "Memories",
+        "image": "/ankit04.png",
+        "date": "2024"
+      },
+      {
+        "id": 4,
+        "title": "Monu Raj",
+        "description": "Let's meet our founder",
+        "category": "Memories",
+        "image": "/monuraj.jpeg",
+        "date": "2024"
+      },
+      {
+        "id": 5,
+        "title": "Sonu Raj",
+        "description": "Let's meet our co-founder",
+        "category": "Memories",
+        "image": "/sonuraj.jpeg",
+        "date": "2024"
+      },
+      {
+        "id": 6,
+        "title": "Raj Bhushan Raj",
+        "description": "Let's meet our co-founder",
+        "category": "Memories",
+        "image": "/rajbhushanraj.jpeg",
+        "date": "2024"
+      },
+
+      {
+        "id": 7,
+        "title": "younger brother",
+        "description": "Let's meet our younger brother",
+        "category": "Memories",
+        "image": "/ankitpritam.png",
+        "date": "2024"
+      },
+      {
+        "id": 8,
+        "title": "Friends",
+        "description": "Let's meet our friends",
+        "category": "Memories",
+        "image": "/friends01.png",
+        "date": "2023"
+      },
+      {
+        "id": 8,
+        "title": "Friends",
+        "description": "Let's meet our friends",
+        "category": "Memories",
+        "image": "/friends02.png",
+        "date": "2025"
+      }
+    ]
+  }
+
+} 
+
