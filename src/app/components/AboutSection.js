@@ -6,11 +6,10 @@ import data from "../data.json";
 export default function AboutSection() {
   const { t } = useLanguage();
   const aboutData = data.about;
-  
   return (
     <section className="w-full max-w-full py-12 sm:py-20 px-4 mx-auto bg-black text-white" id="about">
       <div className="max-w-6xl mx-auto">
-        {/* Header */}
+        {/* Header*/}
         <div className="text-center mb-16">
           <h2 className="text-3xl sm:text-4xl font-extrabold mb-4">
             <span className="bg-gradient-to-r from-pink-500 via-fuchsia-500 to-blue-500 bg-clip-text text-transparent">{aboutData.title}</span>
